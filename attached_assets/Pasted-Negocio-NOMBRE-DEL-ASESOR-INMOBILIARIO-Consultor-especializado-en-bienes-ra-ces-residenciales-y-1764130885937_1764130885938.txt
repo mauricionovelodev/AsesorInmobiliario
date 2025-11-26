@@ -1,0 +1,130 @@
+Negocio:
+[NOMBRE DEL ASESOR INMOBILIARIO] – Consultor especializado en bienes raíces residenciales y comerciales
+🎨 DISEÑO Y ESTÉTICA
+* Paleta de colores profesional y moderna
+* Azul profundo (#0A1A2F)
+* Dorado elegante (#CFAE63)
+* Blanco puro (#FFFFFF)
+* Gris neutro (#F4F4F4)
+* Tipografía
+* Serif moderna para títulos (ej. Playfair Display o Merriweather)
+* Sans-serif limpia para textos (ej. Inter, Montserrat)
+* Estilo visual:
+* Estética minimalista, profesional y confiable
+* Fotografías de propiedades reales o placeholders de alta calidad (Unsplash, Pexels)
+* Líneas delgadas, gran espacio en blanco, uso equilibrado del dorado como acento
+* Animaciones:
+* Fade-in en scroll
+* Hover suave en imágenes
+* Aparición gradual de textos en secciones clave
+🏡 HERO SECTION
+* Imagen fullscreen de una propiedad premium (departamento moderno, penthouse o casa de lujo)
+* Overlay oscuro de ~40% para mejorar la legibilidad
+* Título grande y elegante:
+"Tu Nuevo Hogar Te Está Esperando"
+* Subtítulo:
+"Asesoría inmobiliaria personalizada para decisiones inteligentes"
+* Botones CTA: 
+* "Ver Propiedades" (dorado)
+* "Agendar Asesoría" (outline blanco)
+* Indicador de scroll animado en la parte inferior
+👤 SOBRE MÍ
+* Diseño en dos columnas:
+* Izquierda: texto
+* Derecha: foto profesional del asesor inmobiliario
+* Contenido requerido:
+* Historia y trayectoria
+* Especialidades (residencial, inversión, propiedades premium, renta)
+* Filosofía de trabajo
+* Certificaciones o membresías (AMPI, NAR, etc.)
+* Estadísticas destacadas:
+* Años de experiencia
+* Propiedades vendidas
+* Clientes satisfechos
+* Valor total vendido
+* Diseño de stats:
+Íconos minimalistas + números grandes + etiquetas claras
+🏘️ LISTADO DE PROPIEDADES (CATÁLOGO)
+* Filtros interactivos por:
+* Tipo: Casa, Departamento, Terreno, Comercial
+* Precio
+* Ubicación
+* Recámaras / Baños
+* Estatus (Venta / Renta)
+* Card de propiedad:
+* Foto principal
+* Nombre / tipo de inmueble
+* Ubicación
+* Precio destacado
+* Iconos: metros cuadrados, recámaras, baños, estacionamientos
+* Botón: “Ver Detalles”
+* Página individual de propiedad:
+* Carousel de fotos
+* Descripción amplia
+* Lista de amenidades
+* Plano (si existe)
+* Mapa integrado
+* Botón de contacto inmediato
+🔍 SECCIÓN DESTACADOS / PROPIEDADES PREMIUM
+* Grid de 3 columnas
+* Imágenes grandes tipo revista
+* Texto breve con badges como “Nuevo”, “Exclusiva”, “Oportunidad”
+📞 FORMULARIO DE CONTACTO / ASESORÍA PERSONALIZADA
+* Tarjeta sobre fondo claro
+* Campos: 
+* Nombre completo
+* Teléfono
+* Email
+* Interés (Compra / Venta / Renta / Inversión)
+* Mensaje
+* Botón grande dorado: "Solicitar Asesoría"
+* Mensaje de confirmación con animación
+* Alternativa: botón directo de WhatsApp
+⭐ TESTIMONIALES DE CLIENTES
+* Carousel automático
+* Cada testimonial incluye: 
+* 2–3 líneas de reseña
+* Nombre del cliente
+* Foto o avatar
+* Calificación en estrellas
+* Integración opcional con Google Reviews
+🗺️ UBICACIÓN Y CONTACTO
+* Mapa interactivo Google Maps con oficina o zona principal de operación
+* Información en tarjetas: 
+* Teléfono clickeable
+* Email
+* Horarios
+* Zonas donde trabaja (ciudad, colonias, etc.)
+* Redes sociales: 
+* Instagram
+* Facebook
+* LinkedIn
+* WhatsApp
+⚙️ CARACTERÍSTICAS TÉCNICAS
+* Diseño 100% responsive
+* Navbar fijo con reducción al hacer scroll
+* Menú hamburguesa en móvil
+* Lazy loading de imágenes
+* Optimización SEO básica para bienes raíces
+* Animaciones suaves y profesionales
+* Botones con estados hover
+* Carga rápida de imágenes
+📱 EXPERIENCIA MOBILE
+* Cards de propiedades en formato vertical
+* Botones grandes y fáciles de tocar
+* Pestañas simplificadas
+* Contacto inmediato: 
+* “Llamar”
+* “WhatsApp”
+* Formularios en ancho completo
+🏁 FOOTER
+* Fondo azul oscuro
+* 3 columnas:
+* Logo + descripción breve
+* Enlaces rápidos (Inicio, Propiedades, Contacto, Sobre Mí)
+* Newsletter “Recibe oportunidades exclusivas”
+* Red social icons en dorado
+* Barra inferior:
+© [Año] – Diseñado por [Tu Nombre]
+✔️ INSTRUCCIÓN FINAL PARA LA IA
+Crea el sitio web completo siguiendo cada punto especificado exactamente como se detalla arriba. Usa imágenes de alta calidad, tipografías indicadas y un estilo elegante, profesional y orientado a generar confianza.
